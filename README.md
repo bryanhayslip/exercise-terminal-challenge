@@ -38,4 +38,4 @@ $ npm run start
 
 # Start Playing!
 
-Follow the presentation for better experience.
+Follow the presentation for a better experience.
